@@ -1,4 +1,5 @@
 # Comp211-Checkoff-3
 Includes 
 My topic is Compiler Optimizations, I learned about dead code elimination and then 3 types of loop optimizations. They were strength reduction, loop unrolling, and loop invariant code motion. Dead code elimination removes unneccessary code in a function or program when it sends machine code to the processor so it doesn't process things that it doesn't need to. Strength reduction is using something that is cheaper for the process, example is addition instead of multiplication. Loop unrolling makes it so it does eveyrthing in one iteration. The loop invariant code motion moves calculations outside a loop if the result doesnt change between iterations. 
+https://docs.google.com/presentation/d/1zxZ-8jiCy5uI6NF7lCrL8jBIYnYe826WpKZ4HrM1ixs/edit?usp=sharing
 Done
